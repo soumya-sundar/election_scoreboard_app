@@ -1,7 +1,7 @@
 {
-  "name": "fulljs",
+  "name": "election_scoreboard_app",
   "version": "1.0.0",
-  "description": "Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js",
+  "description": "Election scoreboard application",
   "main": "index.js",
   "scripts": {
     "mongo": "mongod",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jscomplete/learn-fullstack-javascript.git"
+    "url": "git+https://github.com/soumya-sundar/election_scoreboard_app.git"
   },
   "author": "Soumya Sundarrajan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jscomplete/learn-fullstack-javascript/issues"
+    "url": "https://github.com/soumya-sundar/election_scoreboard_app/issues"
   },
-  "homepage": "https://github.com/jscomplete/learn-fullstack-javascript#readme",
+  "homepage": "https://github.com/soumya-sundar/election_scoreboard_app/",
   "dependencies": {
     "ejs": "^2.5.7",
     "express": "^4.16.2",
