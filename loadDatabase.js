@@ -31,5 +31,5 @@ MongoClient.connect(config.mongodbUri, (err, db) => {
       }
     });
   });
-  console.log("Finished created Mongo Collection");
+  console.log("Finished creating Mongo Collection");
 });
